@@ -1,0 +1,22 @@
+<!-- <div calss="overlay"></div> -->
+<div class="login-form-container">
+    <div class="login-form">
+        <div class="cancel-button-div">
+                <i class="fa fa-times" aria-hidden="true" routerLink="/Home"></i>
+        </div>
+        <h2>Please Login Here</h2>
+        <div class="container">
+            <label for="uname"><b>Username</b></label>
+            <input type="text" id="user" placeholder="Enter Username" #username  name="username" value="js" required>
+      
+            <label for="psw"><b>Password</b></label>
+            <input type="password" id="pass" placeholder="Enter Password" #password name="password" value="12345" required>
+              
+            <button type="submit" (click)="onClick()">Login</button>
+            <label>
+              <input type="checkbox" checked="checked" name="remember"> Remember me
+            </label>
+          </div>
+    </div>
+</div>
+

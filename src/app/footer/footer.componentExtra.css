@@ -1,0 +1,47 @@
+.social-icons a.facebook:hover
+{
+  background-color:#3b5998
+}
+.social-icons a.twitter:hover
+{
+  background-color:#00aced
+}
+.social-icons a.linkedin:hover
+{
+  background-color:#007bb6
+}
+.social-icons a.dribbble:hover
+{
+  background-color:#ea4c89
+}
+@media (max-width:767px)
+{
+  .social-icons li.title
+  {
+    display:block;
+    margin-right:0;
+    font-weight:600
+  }
+}
+
+.row{
+    display: flex;
+}
+
+.footer-about{
+    width: 50%;
+    padding: 20px 10px;
+}
+
+.footer-categories{
+    width: 20%;
+    padding: 20px 20px;
+}
+
+.footer-links{
+    padding: 20px 20px;
+}
+
+hr{
+  margin-bottom: 30px;
+}

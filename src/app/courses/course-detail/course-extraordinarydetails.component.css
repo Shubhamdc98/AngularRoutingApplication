@@ -1,0 +1,55 @@
+.devider-message{
+    width: 30px;
+    height: 30px;
+    padding:4px 7px;
+    font-size: 12px;
+    border: #ddd 2px solid;
+    border-radius: 50%;
+    background-color: #fff;
+    margin-bottom: -15px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #888;
+}
+
+.subscribe-to{
+    width: 100%;
+    font-size: 18px;
+    padding: 20px 20px;
+}
+
+.subscribe-to > p{
+    font-size: 12px;
+    margin: 20px 0px;
+}
+
+.subscribe-to > p > a{
+    font-weight: bold;
+    color: #CB4335;
+}
+
+.subscribe-course-button{
+    padding: 10px 30px;
+    width: 90%;
+    margin: 10px 15px;
+    border: #CB4335 2px solid;
+    color: #CB4335;
+    background-color: white;
+}
+
+.prev-nect-course{
+    margin: 20px 0px;
+    padding: 30px 0px;
+}
+.prev-nect-course > button {
+    padding: 10px 30px;
+    border: none;
+    background-color: #CB4335;
+    color:#ddd;
+}
+.prev-btn{
+    float: left;
+}
+.next-btn{
+    float: right;
+}

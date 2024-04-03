@@ -1,0 +1,40 @@
+
+.offer-timer{
+    color: #CB4335;
+    font-size: 14px;
+    padding: 5px 5px;
+}
+.buy-course-button{
+    padding: 10px 30px;
+    width: 90%;
+    margin: 10px 15px;
+    border: none;
+    background-color: #CB4335;
+    color: white;
+}
+
+.guarantee-div{
+    width: 100%;
+    padding: 10px 50px;
+    text-align: center;
+    font-size: 12px;
+}
+
+.course-selection-gift, .course-selection-coupon{
+    width: 50%;
+    padding: 10px 0px;
+    text-align: center;
+    font-size: 14px;
+    color: #28282B;
+    font-weight: bold;
+}
+
+.course-selection-gift > a, .course-selection-coupon > a{
+    color: #28282B;
+    font-weight: bold;
+}
+
+.devider{
+    border-bottom: #ddd 2px solid;
+    margin: 30px 0px;
+}

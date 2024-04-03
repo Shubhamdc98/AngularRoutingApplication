@@ -1,0 +1,48 @@
+.courses-detail-main-container{
+    width: 80%;
+    margin: 50px auto;
+    background-color: #efefef;
+    padding: 10px 0px;
+}
+.course-detail-container{
+    width: 90%;
+    margin: 20px auto;
+    padding: 10px 10px;
+    display:flex;
+}
+.course-details{
+    width: 70%;
+    background-color: #fff;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.course-banner-image{
+    width: 100%;
+    height: 320px;
+}
+.course-title{
+    margin: 10px 0px;
+    width: 100%;
+    text-align: center;
+}
+.course-info{
+    display: flex;
+    width: 100%;
+    margin: 10px 0px;
+}
+.course-info-rating, .course-info-duration,.course-info-author{
+    width: 33%;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+}
+.course-desc{
+    padding: 30px 50px;
+    font-size: 14px;
+}
+
+.course-fake-rewiews-list{
+    padding: 30px 50px;
+    font-size: 14px;
+}
+
